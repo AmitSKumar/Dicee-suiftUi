@@ -2,7 +2,7 @@
 //  Dicee_suiftUiApp.swift
 //  Dicee-suiftUi
 //
-//  Created by user243065 on 9/7/23.
+//  Created by Amit Singh on 9/7/23.
 //
 
 import SwiftUI
